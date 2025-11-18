@@ -8,9 +8,9 @@ En este proyecto se trabajara lo trabajado en el cuarto corte del curso programa
 
 * Diego Alejandro Martinz Nuñez
 
-## Concluciones
+## Conclusiones
 
-Esta base de datos nos permite analizar patrones importantes en la industria de los videojuegos, se puede observar que ciertos géneros como acción y deporte dominan tanto en cantidad de lanzamientos como en vetas globales, lo que nos muestra su popularidad. 
+1. Esta base de datos nos permite analizar patrones importantes en la industria de los videojuegos, se puede observar que ciertos géneros como acción y deporte dominan tanto en cantidad de lanzamientos como en vetas globales, lo que nos muestra su popularidad. 
 
 Observando las plataformas la ps2 destaca como la mas vendida globalmente lo cual nos deja claro que fue un fenómeno a nivel global. 
 
