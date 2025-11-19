@@ -63,4 +63,4 @@ En este proyecto se trabajara lo trabajado en el cuarto corte del curso programa
 
 3. Nintendo se ha consolidado como uno de los editores más importantes del mundo, gracias a algunos de los juegos más vendidos de la historia, como Wii Sports o Super Mario Bros.. Una de las claves de su éxito es que casi siempre desarrollan pensando exclusivamente en sus propias consolas, como la Wii, la NES, la Game Boy o la Nintendo DS.
 
-Además, muchos de sus títulos más populares pertenecen a géneros como deportes y plataformas, donde han logrado ventas récord. Esto muestra una relación muy fuerte entre la marca Nintendo, sus franquicias más reconocidas y el enorme impacto comercial que alcanzan sus juegos.
+    Además, muchos de sus títulos más populares pertenecen a géneros como deportes y plataformas, donde han logrado ventas récord. Esto muestra una relación muy fuerte entre la marca Nintendo, sus franquicias más reconocidas y el enorme impacto comercial que alcanzan sus juegos.
