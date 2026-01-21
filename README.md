@@ -1,6 +1,6 @@
 # Proyecto-Final-Programación-2
 
-En este proyecto se trabajara lo trabajado en el cuarto corte del curso programación 2
+En este proyecto se trabajara lo estudiado en el cuarto corte del curso programación 2
 
 ## Integrantes:
 
